@@ -196,7 +196,7 @@ const projects = [
       },
     ],
     image: AgriTech,
-    source_code_link: "https://github.com/Aditya425148/Indian_Agriculture_Analysis_System",
+    source_code_link: "https://github.com/Aditya425148/Agritech",
   },
   {
     name: "Simon Game",
