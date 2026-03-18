@@ -20,7 +20,7 @@ import {
   nss,
   medicate,
   AgriTech,
-  simon,
+  civic,
   threejs,
 } from "../assets";
 
@@ -199,25 +199,25 @@ const projects = [
     source_code_link: "https://github.com/Aditya425148/Agritech",
   },
   {
-    name: "Simon Game",
+    name: "Civic Pulse",
     description:
-      "A fun and interactive web-based memory game inspired by the classic Simon game. Built using HTML, CSS, JS, and jQuery. Players must remember and repeat an increasingly complex sequence of colors to win.",
+      "CivicPulse is an AI-powered civic engagement platform that empowers citizens to report public issues quickly and efficiently. By intelligently routing complaints to the right authorities, enforcing resolution timelines, and ensuring transparency through real-time tracking, CivicPulse bridges the gap between people and governance—making cities smarter, faster, and more responsive.",
     tags: [
       {
-        name: "JQuery",
+        name: "Appwrite",
         color: "blue-text-gradient",
       },
       {
-        name: "Node.js",
+        name: "React.js",
         color: "green-text-gradient",
       },
       {
-        name: "Express.js",
+        name: "Python",
         color: "pink-text-gradient",
       },
     ],
-    image: simon,
-    source_code_link: "https://github.com/Aditya425148/SIMON_GAME",
+    image: civic,
+    source_code_link: "https://github.com/Aditya425148/Smart-Public-Service-CRM-PS-CRM",
   },
 ];
 
